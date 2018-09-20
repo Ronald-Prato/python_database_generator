@@ -1,0 +1,2 @@
+{'Nombre': 'Chamba Santos', 'Tipo': 'Chamba', 'Latitud': 4.637896760688008, 'Longitud': -74.08229864686089}
+{'Nombre': 'Quiosco Lula', 'Tipo': 'Quiosco', 'Latitud': 4.637705081275222, 'Longitud': -74.08366527524106}
